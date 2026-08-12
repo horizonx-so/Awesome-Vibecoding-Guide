@@ -947,6 +947,7 @@ The component should:
 - [Tailwind UI](https://tailwindui.com/) - Well-structured components
 - [Shadcn/ui](https://ui.shadcn.com/) - Consistent component patterns
 - [Material Design](https://material.io/) - Comprehensive design system
+- [Vibe Coding UI Specification](https://horizonx.so/resources/vibe-coding-ui-specification) - Free MIT-licensed contract for tokens, component states, responsive behavior, accessibility, motion, and production review
 
 ### Tools
 - [Coolors](https://coolors.co/) - Color palette generation
